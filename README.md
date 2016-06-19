@@ -1,2 +1,3 @@
 # hello-world
-My first one
+
+Hi, i'm russian bogatir' who can fight bears and summon wolves
